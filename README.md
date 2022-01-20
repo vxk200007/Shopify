@@ -2,15 +2,15 @@
 
 ## Run jar file
 
-Linux/Mac
+### Linux/Mac
 
-Copy startup.ksh, shopify.jar files to local system.
-Run the startup.ksh (Command : ./startup.ksh)
+Copy startup.ksh, shopify.jar files to a folder in your local system.
+Run the startup.ksh (Command->  ./startup.ksh)
 Web service should start up like below
 ![Screenshot 2022-01-19 at 11 54 14 PM](https://user-images.githubusercontent.com/91156130/150281727-7797b9c9-4607-4f08-a719-4a4e3961e9f7.png)
 
 
-## Routes
+## End points
 |Endpoint                    |GET|POST|PUT|DELETE|
 |----------------------------|-------------|-----------|----------|------|
 | /items/get/all             | Query all inventory items from the database|-|-|-
