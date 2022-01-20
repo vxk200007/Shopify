@@ -9,6 +9,7 @@ Run the startup.ksh (Command->  ./startup.ksh)
 Web service should start up like below
 ![Screenshot 2022-01-19 at 11 54 14 PM](https://user-images.githubusercontent.com/91156130/150281727-7797b9c9-4607-4f08-a719-4a4e3961e9f7.png)
 
+End points can be accessed at http://localhost:8080/ (Example : http://localhost:8080/items/get/all)
 
 ## End points
 |Endpoint                    |GET|POST|PUT|DELETE|
